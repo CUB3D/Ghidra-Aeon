@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<language_definitions>
+  <language processor="AEON"
+            endian="little"
+            size="32"
+            variant="aeon1"
+            version="1.0"
+            slafile="OpenRISC.sla"
+            processorspec="OpenRISC.pspec"
+            id="AEON1:LE:32:default">
+    <description>AEON:AEON1</description>
+    <compiler name="default" spec="OpenRISC.cspec" id="default" />
+  </language>
+</language_definitions>
